@@ -1,0 +1,28 @@
+ .hiremetag:hover{background-color: #069c2e;
+                            border:1px solid #069c2e;}
+ a:hover{color:red;}  
+ a{color:rgb(239, 232, 232);
+    text-decoration:none;} 
+.padding{padding-top: 30px;} 
+.navbar{height:50px;background-color:#069c2e}
+.icon-social{
+        position: fixed;
+        display: flex;
+        flex-direction: row;
+        bottom: 0%;
+        left: 40%;
+        z-index: 100;
+    }
+.icon-social a{
+        display:block;
+        text-align:center;   
+        padding: 18px 13px;
+        margin-left: 5px;
+        font-size: 15px;
+        color:white !important;
+
+    }
+.background-color{background-color:#d7f8f8;}
+.find-out-more:hover{color:red}
+.find-out-more{color:rgb(0, 0, 255)}    
+        
